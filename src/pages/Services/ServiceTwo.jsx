@@ -66,21 +66,25 @@ export default function ServiceTwo() {
               mt={1}
             >
               <MKTypography item variant="h3" color="white">
-                PREPARACIÓN DE DECLARACIONES FISCALES EMPRESARIALES E INDIVIDUALES
+                PREPARACIÓN DE DECLARACIONES FISCALES EMPRESARIALES E
+                INDIVIDUALES
               </MKTypography>
             </MKBox>
             <MKBox my={2} p={5}>
               <MKTypography item xs={12} lg={4} color="black">
                 <p>
-                  Hacer una declaración de impuestos puede tornarse una tarea compleja, y
-                  sofisticada que requiere la asistencia de un profesional.
+                  Hacer una declaración de impuestos puede tornarse una tarea
+                  compleja, y sofisticada que requiere la asistencia de un
+                  profesional.
                 </p>
                 <p>
-                  Una Declaración Fiscal de Income Tax, Es un reporte, típicamente, anual, que deben
-                  presentar todas las personas físicas y morales al Servicio interno de Recaudación,
-                  y demás institutos gubernamentales típicamente hacienda del estado, para
-                  informarle cuestiones relevantes a lo que son los ingresos, gastos, utilidades, y
-                  demás información financiera, cuando el gobierno requiere.
+                  Una Declaración Fiscal de Income Tax, Es un reporte,
+                  típicamente, anual, que deben presentar todas las personas
+                  físicas y morales al Servicio interno de Recaudación, y demás
+                  institutos gubernamentales típicamente hacienda del estado,
+                  para informarle cuestiones relevantes a lo que son los
+                  ingresos, gastos, utilidades, y demás información financiera,
+                  cuando el gobierno requiere.
                 </p>
               </MKTypography>
             </MKBox>

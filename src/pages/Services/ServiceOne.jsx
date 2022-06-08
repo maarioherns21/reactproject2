@@ -72,19 +72,22 @@ export default function ServiceOne() {
             <MKBox my={2} p={5}>
               <MKTypography item xs={12} lg={4} color="black">
                 <p>
-                  Al momento de finalizar la constitución de la persona moral, es necesario dar de
-                  alta la empresa, con autoridades de nivel federal, estatal, ciudad y en ciertas
-                  ocasiones condado. También primordial será elegir el régimen tributario general,
-                  con o sin fines de lucro. Una vez establecido el régimen general, se registra a la
-                  empresa con Hacienda Federal, conocido como Servicio Interno de Recaudación de
-                  Estado Agencias Estatales.
+                  Al momento de finalizar la constitución de la persona moral,
+                  es necesario dar de alta la empresa, con autoridades de nivel
+                  federal, estatal, ciudad y en ciertas ocasiones condado.
+                  También primordial será elegir el régimen tributario general,
+                  con o sin fines de lucro. Una vez establecido el régimen
+                  general, se registra a la empresa con Hacienda Federal,
+                  conocido como Servicio Interno de Recaudación de Estado
+                  Agencias Estatales.
                 </p>
                 <p>
-                  Ofrecemos servicios de incorporación y constitución de personas Morales, de
-                  diversos tipos, entre ellos: Corporación “C”, Corporación “S”, Sociedades Civiles,
-                  Limited Liability Company LLC, Régimen de Persona Física Organización sin Fines de
-                  Lucro, y trabajamos en colaboracion con abogados para manejar el aspecto fiscal de
-                  cualquier Fidecomiso.
+                  Ofrecemos servicios de incorporación y constitución de
+                  personas Morales, de diversos tipos, entre ellos: Corporación
+                  “C”, Corporación “S”, Sociedades Civiles, Limited Liability
+                  Company LLC, Régimen de Persona Física Organización sin Fines
+                  de Lucro, y trabajamos en colaboracion con abogados para
+                  manejar el aspecto fiscal de cualquier Fidecomiso.
                 </p>
               </MKTypography>
             </MKBox>

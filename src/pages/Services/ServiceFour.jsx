@@ -72,8 +72,9 @@ export default function ServiceFour() {
             <MKBox my={2} p={5}>
               <MKTypography item xs={12} lg={4} color="black">
                 <p>
-                  Es responsabilidad efectuar retenciones de los impuestos pertinentes, cuando se
-                  paguen sueldos y salarios a trabajadores, así como de presentar las declaraciones
+                  Es responsabilidad efectuar retenciones de los impuestos
+                  pertinentes, cuando se paguen sueldos y salarios a
+                  trabajadores, así como de presentar las declaraciones
                   informativas pertinentes, federales y estatales.
                 </p>
                 <p>Nuestros costos son razonables, además de competitivos.</p>

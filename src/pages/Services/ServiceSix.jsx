@@ -72,9 +72,10 @@ export default function ServiceSix() {
             <MKBox my={2} p={5}>
               <MKTypography item xs={12} lg={4} color="black">
                 <p>
-                  Procurar estos permisos y licencias requeridos es una parte fundamental de
-                  cualquier empresa. Dependiendo el servicio ofrecido, o el producto vendido,
-                  variaran requerimientos. Favor de comunicarse o llamar para detalles.
+                  Procurar estos permisos y licencias requeridos es una parte
+                  fundamental de cualquier empresa. Dependiendo el servicio
+                  ofrecido, o el producto vendido, variaran requerimientos.
+                  Favor de comunicarse o llamar para detalles.
                 </p>
               </MKTypography>
             </MKBox>

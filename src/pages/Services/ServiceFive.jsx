@@ -72,20 +72,24 @@ export default function ServiceFive() {
             <MKBox my={2} p={5}>
               <MKTypography item xs={12} lg={4} color="black">
                 <p>
-                  En Jacuinde & Associoados consideramos esencial tener organizada la Contabilidad
-                  de su empresa; además de ser requerido, se produce información oportuna que le
-                  permite medir y analizar de manera constante su patrimonio, habilitando asi la
-                  aplicación de información para la toma oportuna de decisiones.
+                  En Jacuinde & Associoados consideramos esencial tener
+                  organizada la Contabilidad de su empresa; además de ser
+                  requerido, se produce información oportuna que le permite
+                  medir y analizar de manera constante su patrimonio,
+                  habilitando asi la aplicación de información para la toma
+                  oportuna de decisiones.
                 </p>
                 <p>
-                  Procuramos cumplimiento fiscal, además del buen funcionamiento de su negocio,
-                  ocupándonos de las obligaciones y requerimientos que marca la ley con la finalidad
-                  de confianza absoluta de estar en cumplimiento.
+                  Procuramos cumplimiento fiscal, además del buen funcionamiento
+                  de su negocio, ocupándonos de las obligaciones y
+                  requerimientos que marca la ley con la finalidad de confianza
+                  absoluta de estar en cumplimiento.
                 </p>
                 <p>
-                  Aquí la organización, la eficiencia y el orden, son de primordial importancia.
-                  Manejamos tecnología moderna y de punta, que nos habilita a brindar un servicio
-                  que cumple con su función, y en excelencia.
+                  Aquí la organización, la eficiencia y el orden, son de
+                  primordial importancia. Manejamos tecnología moderna y de
+                  punta, que nos habilita a brindar un servicio que cumple con
+                  su función, y en excelencia.
                 </p>
               </MKTypography>
             </MKBox>

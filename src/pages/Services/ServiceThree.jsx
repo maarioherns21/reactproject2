@@ -72,10 +72,12 @@ export default function ServiceThree() {
             <MKBox my={2} p={5}>
               <MKTypography item xs={12} lg={4} color="black">
                 <p>
-                  Nuestra firma te brindará el servicio para llevar el proceso con las autoridades
-                  garantizando un correcto manejo de la situación. Contamos con experiencia y
-                  habilidad, para representar a clientes antes agencias Federales, Estatales y
-                  Locales, entre ellas, Hacienda Federal, Y Agencias diversas del Estado.
+                  Nuestra firma te brindará el servicio para llevar el proceso
+                  con las autoridades garantizando un correcto manejo de la
+                  situación. Contamos con experiencia y habilidad, para
+                  representar a clientes antes agencias Federales, Estatales y
+                  Locales, entre ellas, Hacienda Federal, Y Agencias diversas
+                  del Estado.
                 </p>
               </MKTypography>
             </MKBox>
