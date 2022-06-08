@@ -46,7 +46,10 @@ function AboutUs() {
         minHeight="75vh"
         width="100%"
         sx={{
-          backgroundImage: ({ functions: { linearGradient, rgba }, palette: { gradients } }) =>
+          backgroundImage: ({
+            functions: { linearGradient, rgba },
+            palette: { gradients },
+          }) =>
             `${linearGradient(
               rgba(gradients.dark.main, 0.6),
               rgba(gradients.dark.state, 0.6)
@@ -79,7 +82,13 @@ function AboutUs() {
             >
               Trabajando con un increible equipo
             </MKTypography>
-            <MKTypography variant="body1" color="white" opacity={0.8} mt={1} mb={3}>
+            <MKTypography
+              variant="body1"
+              color="white"
+              opacity={0.8}
+              mt={1}
+              mb={3}
+            >
               Conoce lo que nos ha hecho una empresa con experiencia
             </MKTypography>
             <MKTypography variant="h6" color="white" mt={8} mb={1}>
@@ -95,10 +104,22 @@ function AboutUs() {
               >
                 <i className="fab fa-facebook" />
               </MKTypography>
-              <MKTypography component="a" variant="body1" color="white" href="#" mr={3}>
+              <MKTypography
+                component="a"
+                variant="body1"
+                color="white"
+                href="#"
+                mr={3}
+              >
                 <i className="fab fa-instagram" />
               </MKTypography>
-              <MKTypography component="a" variant="body1" color="white" href="#" mr={3}>
+              <MKTypography
+                component="a"
+                variant="body1"
+                color="white"
+                href="#"
+                mr={3}
+              >
                 <i className="fab fa-twitter" />
               </MKTypography>
               <MKTypography

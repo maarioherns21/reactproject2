@@ -87,7 +87,12 @@ function ContactUs() {
               </MKTypography>
             </MKBox>
             <MKBox p={3}>
-              <MKSocialButton component="a" href="tel:4432233568" color="whatsapp" sx={{ mr: 5 }}>
+              <MKSocialButton
+                component="a"
+                href="tel:4432233568"
+                color="whatsapp"
+                sx={{ mr: 5 }}
+              >
                 <i className="fab fa-whatsapp fa-2x" />
                 &nbsp;Contactanos
               </MKSocialButton>

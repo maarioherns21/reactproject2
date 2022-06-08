@@ -76,8 +76,9 @@ function Presentation() {
               px={{ xs: 6, lg: 12 }}
               mt={1}
             >
-              Nuestra visión es proveer de un servicio confidencial, ético, profesional, organizado,
-              serio y con el mejor rendimiento, ofreciendo excelencia a un precio razonable.
+              Nuestra visión es proveer de un servicio confidencial, ético,
+              profesional, organizado, serio y con el mejor rendimiento,
+              ofreciendo excelencia a un precio razonable.
             </MKTypography>
           </Grid>
         </Container>
@@ -88,7 +89,8 @@ function Presentation() {
           mx: { xs: 2, lg: 3 },
           mt: -8,
           mb: 4,
-          backgroundColor: ({ palette: { white }, functions: { rgba } }) => rgba(white.main, 0.8),
+          backgroundColor: ({ palette: { white }, functions: { rgba } }) =>
+            rgba(white.main, 0.8),
           backdropFilter: "saturate(200%) blur(30px)",
           boxShadow: ({ boxShadows: { xxl } }) => xxl,
         }}
@@ -179,7 +181,13 @@ function Presentation() {
         <MKBox pt={18} pb={6}>
           <Container>
             <Grid container spacing={3}>
-              <Grid item xs={12} lg={5} ml="auto" sx={{ textAlign: { xs: "center", lg: "left" } }}>
+              <Grid
+                item
+                xs={12}
+                lg={5}
+                ml="auto"
+                sx={{ textAlign: { xs: "center", lg: "left" } }}
+              >
                 <MKTypography variant="h4" fontWeight="bold" mb={0.5}>
                   Grasias por confiar en nosotros
                 </MKTypography>

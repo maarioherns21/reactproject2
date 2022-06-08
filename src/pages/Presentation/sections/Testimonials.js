@@ -37,13 +37,15 @@ function Information() {
           justifyContent="center"
           sx={{ mx: "auto", textAlign: "center" }}
         >
-          <MKTypography variant="h2">Con la experiencia de mas de </MKTypography>
+          <MKTypography variant="h2">
+            Con la experiencia de mas de{" "}
+          </MKTypography>
           <MKTypography variant="h2" color="info" textGradient mb={2}>
             30 años sirviendo
           </MKTypography>
           <MKTypography variant="body1" color="text" mb={2}>
-            Somos especialistas en temas contables y fiscales, con experiencia en diversas
-            cuestiones tanto personales como de negocio.
+            Somos especialistas en temas contables y fiscales, con experiencia
+            en diversas cuestiones tanto personales como de negocio.
           </MKTypography>
         </Grid>
         <Grid container spacing={3} sx={{ mt: 8 }}>
