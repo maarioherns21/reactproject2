@@ -67,7 +67,7 @@ function Presentation() {
                 },
               })}
             >
-              Jaquinde & Asociados{" "}
+              Jacuinde & Asociados{" "}
             </MKTypography>
             <MKTypography
               variant="body1"
@@ -192,7 +192,7 @@ function Presentation() {
                   Grasias por confiar en nosotros
                 </MKTypography>
                 <MKTypography variant="body1" color="text">
-                  Siempre ofrecemos los mejores servicios
+                  Siempre ofrecemos el mejor servicio
                 </MKTypography>
               </Grid>
               <Grid

@@ -78,10 +78,9 @@ export default function ServiceTwo() {
                   profesional.
                 </p>
                 <p>
-                  Una Declaración Fiscal de Income Tax, Es un reporte,
+                  Una Declaración Fiscal, Es un reporte,
                   típicamente, anual, que deben presentar todas las personas
-                  físicas y morales al Servicio interno de Recaudación, y demás
-                  institutos gubernamentales típicamente hacienda del estado,
+                  físicas y morales a institutos gubernamentales típicamente hacienda del estado,
                   para informarle cuestiones relevantes a lo que son los
                   ingresos, gastos, utilidades, y demás información financiera,
                   cuando el gobierno requiere.

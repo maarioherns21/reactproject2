@@ -84,8 +84,7 @@ export default function ServiceOne() {
                 <p>
                   Ofrecemos servicios de incorporación y constitución de
                   personas Morales, de diversos tipos, entre ellos: Corporación
-                  “C”, Corporación “S”, Sociedades Civiles, Limited Liability
-                  Company LLC, Régimen de Persona Física Organización sin Fines
+                  “C”, Corporación “S”, Sociedades Civiles, Régimen de Persona Física Organización sin Fines
                   de Lucro, y trabajamos en colaboracion con abogados para
                   manejar el aspecto fiscal de cualquier Fidecomiso.
                 </p>
